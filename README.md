@@ -56,7 +56,7 @@ sudo sed -i '/^dtparam=pciex1$/a dtparam=pciex1_gen=3' /mnt/nvme_boot/config.txt
 
 ```bash
 # Clone this repo on the uConsole
-git clone https://github.com/YOUR_USERNAME/uconsole-cm5-setup
+git clone https://github.com/phaedonv/uconsole-cm5-setup
 cd uconsole-cm5-setup
 
 # Copy the working configs
